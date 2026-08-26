@@ -1,7 +1,7 @@
-## Привет, меня зовут Сергей! 👋
+## <p align="center">Привет, меня зовут Сергей! 👋</p>
 
 
-## [![image](https://github.com/user-attachments/assets/d3a64477-e064-4cf5-96a6-3c68bb4497c2)](https://t.me/GetITs)
+## <p align="center">[![image](https://github.com/user-attachments/assets/d3a64477-e064-4cf5-96a6-3c68bb4497c2)](https://t.me/GetITs)</p>
 
 
 
