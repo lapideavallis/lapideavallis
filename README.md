@@ -1,6 +1,7 @@
 ## Привет, меня зовут Сергей! 👋
 
 
+<img width="65" height="20" alt="image" src="https://github.com/user-attachments/assets/d3a64477-e064-4cf5-96a6-3c68bb4497c2" />
 
 
 
