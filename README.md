@@ -21,7 +21,7 @@
 
 ### 🛠️ Языки и инструменты :
 
-`Python` `PySpark` `SQL` `Airflow` `Docker` `Git` `ClickHouse` `PostgreSQL` `Kafka` `Greenplum`
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![PySpark](https://img.shields.io/badge/-PySpark-E25A1C?style=flat&logo=apache-spark&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white) ![Airflow](https://img.shields.io/badge/-Airflow-017CEE?style=flat&logo=apache-airflow&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![ClickHouse](https://img.shields.io/badge/-ClickHouse-FFCC01?style=flat&logo=clickhouse&logoColor=black) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white) ![Kafka](https://img.shields.io/badge/-Kafka-231F20?style=flat&logo=apache-kafka&logoColor=white) ![Greenplum](https://img.shields.io/badge/-Greenplum-008000?style=flat&logo=vmware&logoColor=white)
 
 ### 📖 Мои проекты:
 
